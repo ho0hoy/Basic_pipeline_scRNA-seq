@@ -1,1 +1,1 @@
-# scRNA-seq-end-to-end-basic-pipeline
+# basic pipeline (scRNA-seq)
